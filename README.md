@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Aman
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Reaact.js, Node.js
+- 🌱 I’m currently learning React.js, Node.js
 - 💞️ I’m looking to collaborate on Web Development related projects
 - 📫 reach me at ankit7091aman@gmail.com
 
